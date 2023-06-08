@@ -1,0 +1,12 @@
+{
+  "name": "extrac_correct_answers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "exec": "node script.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
